@@ -1,0 +1,9 @@
+*************************************************
+Comandos de configuración
+***************************************************
+	1. git --version
+	2. git config --list (lista de configuraciones)
+	3. git config --global user.name "nombre"
+	4. git config --global user.email "correo"
+	5. git config --global color.ui true
+	6. git config --list

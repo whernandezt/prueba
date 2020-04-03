@@ -7,3 +7,5 @@ Comandos de configuración
 	4. git config --global user.email "correo"
 	5. git config --global color.ui true
 	6. git config --list
+	7. git add (nombre archivo)
+	8. git commit -m "Initial commit."

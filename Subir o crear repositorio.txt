@@ -1,0 +1,6 @@
+**********************************************
+	Comandos cmd 
+**********************************************
+	1. cd (a una carpeta raíz)
+	2. git status (verifica si tiene repositorio en git)
+	3. git init (crea una carpeta .git oculta)
